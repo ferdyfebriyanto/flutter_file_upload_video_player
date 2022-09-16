@@ -14,17 +14,36 @@ Upload File
 Video Player Plugin
 * video_player
 
-## Praktikum
+# Praktikum
 
-### Upload File
+## Upload File
 
-![Hasil Upload File](./images/1.png)
-![Hasil Upload File](./images/2.png)
-![Hasil Upload File](./images/3.png)
-![Hasil Upload File](./images/4.png)
-![Hasil Upload File](./images/5.png)
+![Hasil Upload File](./images/01.png)
+
+* Terdapat tampilan tombol untuk upload gambar
+
+![Hasil Upload File](./images/02.png)
+
+* Menampilkan pop up yang terdapat 2 opsi button yaitu camera dan gallery
+
+![Hasil Upload File](./images/03.png)
+
+* Tampilan upload dari gallery
+
+![Hasil Upload File](./images/04.png)
+
+* Tampilan upload dari camera
+
+![Hasil Upload File](./images/05.png)
+
+* Tampilan hasil upload
 
 ### Video Player
-![Hasil Video Player](./images/6.png)
-![Hasil Video Player](./images/7.png)
+![Hasil Video Player](./images/06.png)
+
+* Menampilkan tampilan video player
+
+![Hasil Video Player](./images/07.png)
+
+* Menampilkan tampilan video player yang sudah diputar
 
