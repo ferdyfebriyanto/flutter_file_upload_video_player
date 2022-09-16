@@ -14,3 +14,17 @@ Upload File
 Video Player Plugin
 * video_player
 
+## Praktikum
+
+### Upload File
+
+![Hasil Upload File](./images/1.png)
+![Hasil Upload File](./images/2.png)
+![Hasil Upload File](./images/3.png)
+![Hasil Upload File](./images/4.png)
+![Hasil Upload File](./images/5.png)
+
+### Video Player
+![Hasil Video Player](./images/6.png)
+![Hasil Video Player](./images/7.png)
+
