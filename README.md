@@ -1,16 +1,16 @@
-# flutter_file_upload_video_player
+# Local Storage dan Video Player
 
-A new Flutter project.
+## Tujuan Pembelajaran
 
-## Getting Started
+Setelah menyelesaikan bab ini, Anda akan memiliki kemampuan:
+* Mengimplementasikan fitur upload file dalam aplikasi
+* Mengimplementasikan fitur video player dalam aplikasi
 
-This project is a starting point for a Flutter application.
+## Plugin 
 
-A few resources to get you started if this is your first Flutter project:
+Upload File
+* image_picker
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Video Player Plugin
+* video_player
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
